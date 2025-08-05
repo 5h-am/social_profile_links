@@ -15,12 +15,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Project Screenshort]()
+![Project Screenshort](https://github.com/5h-am/social_profile_links/blob/main/project_screenshort.png?raw=True)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Social Profile Links](https://5h-am.github.io/social_profile_links/)
 
 ## My process
 
