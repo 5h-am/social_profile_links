@@ -15,7 +15,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![Project Screenshort]()
+![Project Screenshort](https://github.com/5h-am/social_profile_links/blob/main/project_screenshort.png?raw=True)
 
 
 ### Links
